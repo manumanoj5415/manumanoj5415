@@ -1,6 +1,6 @@
-👋 Hi, I’m @manumanoj5415
+                                                                                                                         👋 Hi, I’m @manumanoj5415
 
-                  Web developer From india (Bengaluru)
+                Software developer From india (Bengaluru)
 
 
 
