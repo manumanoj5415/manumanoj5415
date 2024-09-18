@@ -9,5 +9,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajeet14all&label=Profile%20views&color=0e75b6&style=flat" alt="manumanoj5415" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge](https://giphy.com/gifs/programmer-p4NLw3I4U0idi)" alt="" /></a> </p>
                   
